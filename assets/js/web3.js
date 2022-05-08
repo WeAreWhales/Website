@@ -1,5 +1,5 @@
 
-const WAWC = "0x3B0a82176146AFF5871682A99f7a93E417e208ce";
+const WAWC = "0x8494a1bda81b497ad28a36ee8e977cf522047e77";
 
 
 const ABI = () => {
