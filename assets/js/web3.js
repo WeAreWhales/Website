@@ -583,10 +583,10 @@ const mint = async() => {
     }
     catch (error) { 
         if (error) {
-            window.alert(error);
+            
         }
         else {
-            window.alert(error);
+            
         }
     }
 };
